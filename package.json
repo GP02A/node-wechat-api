@@ -1,0 +1,23 @@
+{
+  "name": "node-wechat-api",
+  "version": "0.2.0",
+  "description": "node.js implement of wechat api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GP02A/node-wechat-api.git"
+  },
+  "keywords": [
+    "wechat",
+    "微信"
+  ],
+  "author": "musaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GP02A/node-wechat-api/issues"
+  },
+  "homepage": "https://github.com/GP02A/node-wechat-api#readme"
+}
