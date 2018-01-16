@@ -1,6 +1,6 @@
 {
   "name": "@musaka/node-wechat-api",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "node.js implement of wechat api",
   "main": "app.js",
   "scripts": {
